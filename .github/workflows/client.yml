@@ -32,4 +32,4 @@ jobs:
             --region ap-northeast-2 \
             build s3://fe-81-yunseonrye \
             --delete
-        working-directory: ./my-agora-states-client
+        working-directory: ./github/workflows/client.yml
